@@ -2,7 +2,9 @@
 title: Josef Scarantino
 bio: this is my bio
 avatar: ''
-social: []
+social:
+- title: ''
+  url: ''
 featured: false
 
 ---
