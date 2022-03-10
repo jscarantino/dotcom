@@ -8,7 +8,7 @@ metaDataFormat: yaml
 # theme: novela
 module:
   imports:
-    - path: "github.com/jscarantino/dotcom"
+    - path: "github.com/forestryio/novela-hugo-starter"
 paginate: 6
 social:
   twitter: "#"
